@@ -1,0 +1,45 @@
+{
+  "version": "1.0",
+  "caps": [
+    {
+      "type": "text",
+      "name": "platformName",
+      "value": "mac"
+    },
+    {
+      "type": "text",
+      "name": "appium:platformVersion",
+      "value": "13.2.1 (22D68)"
+    },
+    {
+      "type": "file",
+      "name": "appium:app",
+      "value": "/Users/meerakrishna/Documents/EmojiPicker/build/appEmojiSelector.app"
+    }
+  ],
+  "server": {
+    "local": {},
+    "remote": {
+      "port": "4723",
+      "hostname": "localhost",
+      "ssl": false,
+      "path": "/wd/hub"
+    },
+    "sauce": {
+      "dataCenter": "us-west-1"
+    },
+    "headspin": {},
+    "browserstack": {},
+    "lambdatest": {},
+    "advanced": {},
+    "bitbar": {},
+    "kobiton": {},
+    "perfecto": {},
+    "pcloudy": {},
+    "testingbot": {},
+    "experitest": {},
+    "roboticmobi": {}
+  },
+  "serverType": "remote",
+  "visibleProviders": []
+}
